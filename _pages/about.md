@@ -64,18 +64,14 @@ My research interest includes computer graphics, particularly rendering.
 # 🔥 Projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pbr.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Small Rasterizer** [Project](https://github.com/mzwang34/smallRasterizer)
-
-- A rasterizer featuring back face culling, perspective correct interpolation, and advanced mapping techniques such as normal mapping, texture mapping, Blinn-Phong shading, bump mapping, and physically based rendering. 
+- A rasterizer featuring back face culling, perspective correct interpolation, and advanced mapping techniques such as normal mapping, texture mapping, Blinn-Phong shading, bump mapping, and physically based rendering.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/microfacet1024_is_5984.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **Small Path Tracer** [Project](https://github.com/mzwang34/smallPathTracer)
-
 - A Monte-Carlo Path Tracer with BVH acceleration, featuring Russian Roulette, MSAA, and the Microfacet Model. It also incorporates Importance Sampling and MIS, along with multithreading.
 </div>
 </div>
