@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
-I am now working as a rendering engine programmer at BoomingTech. I obtained my M.Eng (2024) in Electronic Information from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Prof. [Yiping Du](https://en.bme.sjtu.edu.cn/show-33-110.html), and B.Eng (2021) in Information Engineering from [Zhejiang University](https://www.zju.edu.cn/english/).
+I obtained my M.Eng (2024) in Electronic Information from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Prof. [Yiping Du](https://en.bme.sjtu.edu.cn/show-33-110.html), and B.Eng (2021) in Information Engineering from [Zhejiang University](https://www.zju.edu.cn/english/).
 
 My research interest includes computer graphics, particularly rendering.
 
@@ -28,6 +28,23 @@ My research interest includes computer graphics, particularly rendering.
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+<!-- # 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 📖 Educations
+- *2025.04 - Now*, Master, Visual Computing, Saarland University, Saarbrücken.
+- *2021.09 - 2024.03*, Master, Electronic Information, Shanghai Jiao Tong University, Shanghai.
+- *2017.09 - 2021.06*, Undergraduate, Information Engineering, Zhejiang University, Hangzhou.
+
+<!-- # 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+
+# 💻 Experiences
+- *2024.08 - 2025.03*, Booming Tech, Rendering Engine Group, Hangzhou.
+- *2024.02 - 2024.05*, CVGL Lab, Westlake University, Hangzhou.
 
 # 📝 Publications 
 
@@ -45,33 +62,17 @@ My research interest includes computer graphics, particularly rendering.
 
 - **[ICBBE 2023]** [Accelerated Dynamic Renal Phase-Contrast MRI using A Score-based Diffusion Network](https://dl.acm.org/doi/10.1145/3637732.3637776), **Mengzhu Wang**, Huajun She, Yiping Du.
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-# 📖 Educations
-- *2021.09 - 2024.03*, Master, Electronic Information, Shanghai Jiao Tong University, Shanghai.
-- *2017.09 - 2021.06*, Undergraduate, Information Engineering, Zhejiang University, Hangzhou.
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
-# 💻 Internships
-- *2024.08 - Now*, [Booming Tech](https://www.boomingtech.com/), Rendering Engine Group, Hangzhou.
-- *2024.02 - 2024.05*, CVGL Lab, Westlake University, Hangzhou.
-
 # 🔥 Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pbr.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Small Rasterizer** [Project](https://github.com/mzwang34/smallRasterizer)
-- A rasterizer featuring back face culling, perspective correct interpolation, and advanced mapping techniques such as normal mapping, texture mapping, Blinn-Phong shading, bump mapping, and physically based rendering.
-</div>
-</div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pbr.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+- **Small Rasterizer** [Project](https://github.com/mzwang34/smallRasterizer) \
+  A rasterizer featuring back face culling, perspective correct interpolation, and advanced mapping techniques such as normal mapping, texture mapping, Blinn-Phong shading, bump mapping, and physically based rendering.
+<!-- </div> -->
+<!-- </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/microfacet1024_is_5984.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Small Path Tracer** [Project](https://github.com/mzwang34/smallPathTracer)
-- A Monte-Carlo Path Tracer with BVH acceleration, featuring Russian Roulette, MSAA, and the Microfacet Model. It also incorporates Importance Sampling and MIS, along with multithreading.
-</div>
-</div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/microfacet1024_is_5984.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+- **Small Path Tracer** [Project](https://github.com/mzwang34/smallPathTracer) \
+  A Monte-Carlo Path Tracer with BVH acceleration, featuring Russian Roulette, MSAA, and the Microfacet Model. It also incorporates Importance Sampling and MIS, along with multithreading.
+<!-- </div> -->
+<!-- </div> -->

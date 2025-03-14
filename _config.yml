@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mengzhu Wang"
-description              : "Rendering engine programmer"
+description              : "MSc Visual Computing"
 repository               : "mzwang34/mzwang34.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Mengzhu Wang"
-  avatar           : "images/avatar1.png"
-  bio              : "Booming Tech"
+  avatar           : "images/avatar3.png"
+  bio              : "Saarland University"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
