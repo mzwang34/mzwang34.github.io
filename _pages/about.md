@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
-I obtained my M.Eng (2024) in Electronic Information from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Prof. [Yiping Du](https://en.bme.sjtu.edu.cn/show-33-110.html), and B.Eng (2021) in Information Engineering from [Zhejiang University](https://www.zju.edu.cn/english/).
+I am currently pursuing a master's degree in Visual Computing at Saarland University. I obtained my M.Eng (2024) in Electronic Information from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Prof. [Yiping Du](https://en.bme.sjtu.edu.cn/show-33-110.html), and B.Eng (2021) in Information Engineering from [Zhejiang University](https://www.zju.edu.cn/english/).
 
 My research interest includes computer graphics, particularly rendering.
 
@@ -36,7 +36,7 @@ My research interest includes computer graphics, particularly rendering.
 # 📖 Educations
 - *2025.04 - Now*, Master, Visual Computing, Saarland University, Saarbrücken.
 - *2021.09 - 2024.03*, Master, Electronic Information, Shanghai Jiao Tong University, Shanghai.
-- *2017.09 - 2021.06*, Undergraduate, Information Engineering, Zhejiang University, Hangzhou.
+- *2017.09 - 2021.06*, Bachelor, Information Engineering, Zhejiang University, Hangzhou.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
