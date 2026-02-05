@@ -64,21 +64,21 @@ My interest includes computer graphics, particularly rendering.
 - **[ICBBE 2023]** [Accelerated Dynamic Renal Phase-Contrast MRI using A Score-based Diffusion Network](https://dl.acm.org/doi/10.1145/3637732.3637776), **Mengzhu Wang**, Huajun She, Yiping Du.
 
 # 🔥 Projects
-- **Lightfuker** [Code](https://github.com/mzwang34/Lightfuker) | [Web](https://mzwang34.github.io/Lightfuker/) \
+- **Lightfuker** [Code](https://github.com/mzwang34/Lightfuker) | [Web](https://mzwang34.github.io/Lightfuker/) <br>
   Lightfuker is a ray tracer built on the Lightwave framework. This project was developed for the Computer Graphics Winter 2025/26 rendering competition at Saarland University. 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/render.jpg' alt="finalrender" width="70%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/render.jpg' alt="finalrender" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pbr.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- **Small Rasterizer** [Project](https://github.com/mzwang34/smallRasterizer) \
+- **Small Rasterizer** [Project](https://github.com/mzwang34/smallRasterizer) <br>
   A rasterizer featuring back face culling, perspective correct interpolation, and advanced mapping techniques such as normal mapping, texture mapping, Blinn-Phong shading, bump mapping, and physically based rendering.
 <!-- </div> -->
 <!-- </div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/microfacet1024_is_5984.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- **Small Path Tracer** [Project](https://github.com/mzwang34/smallPathTracer) \
+- **Small Path Tracer** [Project](https://github.com/mzwang34/smallPathTracer) <br>
   A Monte-Carlo Path Tracer with BVH acceleration, featuring Russian Roulette, MSAA, and the Microfacet Model. It also incorporates Importance Sampling and MIS, along with multithreading.
 <!-- </div> -->
 <!-- </div> -->
