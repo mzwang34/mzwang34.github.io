@@ -20,7 +20,7 @@ redirect_from:
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 I am currently pursuing a master's degree in Media Informatics at Saarland University. I obtained my M.Eng (2024) in Electronic Information from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), advised by Prof. [Yiping Du](https://en.bme.sjtu.edu.cn/show-33-110.html), and B.Eng (2021) in Information Engineering from [Zhejiang University](https://www.zju.edu.cn/english/).
 
-My research interest includes computer graphics, particularly rendering.
+My interest includes computer graphics, particularly rendering.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -64,6 +64,11 @@ My research interest includes computer graphics, particularly rendering.
 - **[ICBBE 2023]** [Accelerated Dynamic Renal Phase-Contrast MRI using A Score-based Diffusion Network](https://dl.acm.org/doi/10.1145/3637732.3637776), **Mengzhu Wang**, Huajun She, Yiping Du.
 
 # 🔥 Projects
+- **Lightfuker** [Code](https://github.com/mzwang34/Lightfuker) | [Web](https://mzwang34.github.io/Lightfuker/) \
+  Lightfuker is a ray tracer built on the Lightwave framework. This project was developed for the Computer Graphics Winter 2025/26 rendering competition at Saarland University. 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/render.jpg' alt="finalrender" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pbr.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 - **Small Rasterizer** [Project](https://github.com/mzwang34/smallRasterizer) \
