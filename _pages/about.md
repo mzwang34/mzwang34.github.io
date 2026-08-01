@@ -43,11 +43,12 @@ My interest includes computer graphics, particularly rendering.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experiences
-- *2025.08 - 2025.10*, realities.io, Game Development, Berlin.
+- *2026.05 - Now*, Tencent, IEGG Studio Tech Hub, Shenzhen.
+- *2025.08 - 2025.10*, Realities.io Inc., Game Development, Berlin.
 - *2024.08 - 2025.03*, Booming Tech, Rendering Engine Group, Hangzhou.
-- *2024.02 - 2024.05*, CVGL Lab, Westlake University, Hangzhou.
+<!-- - *2024.02 - 2024.05*, CVGL Lab, Westlake University, Hangzhou. -->
 
-# 📝 Publications 
+<!-- # 📝 Publications  -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,7 +62,7 @@ My interest includes computer graphics, particularly rendering.
 </div>
 </div> -->
 
-- **[ICBBE 2023]** [Accelerated Dynamic Renal Phase-Contrast MRI using A Score-based Diffusion Network](https://dl.acm.org/doi/10.1145/3637732.3637776), **Mengzhu Wang**, Huajun She, Yiping Du.
+<!-- - **[ICBBE 2023]** [Accelerated Dynamic Renal Phase-Contrast MRI using A Score-based Diffusion Network](https://dl.acm.org/doi/10.1145/3637732.3637776), **Mengzhu Wang**, Huajun She, Yiping Du. -->
 
 # 🔥 Projects
 - **Lightfuker** [Code](https://github.com/mzwang34/Lightfuker) | [Web](https://mzwang34.github.io/Lightfuker/) <br>
@@ -69,16 +70,21 @@ My interest includes computer graphics, particularly rendering.
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/render.jpg' alt="finalrender" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+- **vkCollection** [Code](https://github.com/mzwang34/vkCollection) <br>
+  A compact Vulkan 1.3 real-time renderer implementing a modern deferred rendering pipeline with physically based shading, advanced shadow techniques, compute-based lighting, and integrated debugging/profiling tools. 
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/demo.png' alt="finalrender" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/pbr.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- **Small Rasterizer** [Project](https://github.com/mzwang34/smallRasterizer) <br>
-  A rasterizer featuring back face culling, perspective correct interpolation, and advanced mapping techniques such as normal mapping, texture mapping, Blinn-Phong shading, bump mapping, and physically based rendering.
+<!-- - **Small Rasterizer** [Project](https://github.com/mzwang34/smallRasterizer) <br>
+  A rasterizer featuring back face culling, perspective correct interpolation, and advanced mapping techniques such as normal mapping, texture mapping, Blinn-Phong shading, bump mapping, and physically based rendering. -->
 <!-- </div> -->
 <!-- </div> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/microfacet1024_is_5984.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-- **Small Path Tracer** [Project](https://github.com/mzwang34/smallPathTracer) <br>
-  A Monte-Carlo Path Tracer with BVH acceleration, featuring Russian Roulette, MSAA, and the Microfacet Model. It also incorporates Importance Sampling and MIS, along with multithreading.
+<!-- - **Small Path Tracer** [Project](https://github.com/mzwang34/smallPathTracer) <br>
+  A Monte-Carlo Path Tracer with BVH acceleration, featuring Russian Roulette, MSAA, and the Microfacet Model. It also incorporates Importance Sampling and MIS, along with multithreading. -->
 <!-- </div> -->
 <!-- </div> -->
